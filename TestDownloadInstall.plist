@@ -32,8 +32,8 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>update-url</key>
-				<string>https://dn-mypure.qbox.me/iosLocal.plist</string>
+<!-- 				<key>update-url</key>
+				<string>https://dn-mypure.qbox.me/iosLocal.plist</string> -->
 				<key>bundle-identifier</key>
 				<string>com.xxfl.flstore45</string>
 				<key>bundle-version</key>
