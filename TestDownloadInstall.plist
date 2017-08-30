@@ -13,7 +13,7 @@
 					<key>url</key>
 					<string>http://ooyizs7oj.bkt.clouddn.com/guo.ipa</string>
 				</dict>
-				<dict>
+<!-- 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>needs-shine</key>
@@ -28,12 +28,12 @@
 					<true/>
 					<key>url</key>
 					<string>http://192.168.100.71:8080/AhHxAppService/resources/platform/icon.png</string>
-				</dict>
+				</dict> -->
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>update-url</key>
-				<string>https://dn-mypure.qbox.me/iosLocal.plist</string>
+<!-- 				<key>update-url</key>
+				<string>https://dn-mypure.qbox.me/iosLocal.plist</string> -->
 				<key>bundle-identifier</key>
 				<string>com.xxfl.flstore45</string>
 				<key>bundle-version</key>
